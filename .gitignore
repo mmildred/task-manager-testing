@@ -1,0 +1,23 @@
+# Node.js
+backend/node_modules/
+backend/.env
+backend/coverage/
+
+# Flutter & Dart
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/build/
+mobile/.packages
+mobile/.pub-cache/
+mobile/.pub/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
